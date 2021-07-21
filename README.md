@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hey there! 👋
 ![](https://komarev.com/ghpvc/?username=djrobin17&style=flat-square&color=blueviolet)
 
+![Devang's GitHub stats](https://github-readme-stats.vercel.app/api?username=djrobin17&show_icons=true&theme=midnight-purple&count_private=true)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djrobin17&layout=compact&langs_count=8&theme=midnight-purple&count_private=true)
+ -->
 <!--
 **djrobin17/djrobin17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
